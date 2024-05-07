@@ -2,7 +2,7 @@
 
 🙋‍♀️ Je suis Marc jaffré, je suis actuellement Technicien en Assistance Informatique (AFPA), je passe actuellement un Technicien Supérieur en Systèmes & Réseaux.
 
-🌈 Je suis auto-didacte et je **NE PLUS** partages mes travaux sur les différents Systèmes que j'ai pu travailler.
+🌈 Je suis auto-didacte et je partages mes travaux sur les différents Systèmes que j'ai pu travailler.
 
 👩‍💻 Le dépôt GITHUB est un espace Privatif créer par mes soins ! C'est moi qui gères les accès !
 
