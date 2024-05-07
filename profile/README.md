@@ -1,4 +1,4 @@
-## Bonjour, 👋
+## Bonjour,
 
 🙋‍♀️ Je suis Marc jaffré, je suis actuellement Technicien en Assistance Informatique (AFPA), je passe actuellement un Technicien Supérieur en Systèmes & Réseaux.
 
